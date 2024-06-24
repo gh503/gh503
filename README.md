@@ -1,6 +1,6 @@
 # 你好，我是 gh503 👋
 
-我是一个全栈开发者，专注于构建高质量的 Web 应用程序。我对开源项目充满热情，喜欢在 JavaScript 和 Python 上工作。
+我是一个全栈开发及测试工作者，专注于构建高质量的自动化程序。我对开源项目充满热情，喜欢在 Rust、Python、TypeScript 上工作。
 
 📫 如何联系我:
 - Email: angus_robot@163.com
