@@ -23,7 +23,7 @@
 
 ### [MiniRobot](https://github.com/gh503/miniRobot)
 
-项目描述：这是一个分布式后台应用程序，使用 Rust 构建。借鉴ROS2思想，基于`tokio`实现节点分布式通信和服务，完成本地和跨网络的工作。
+项目描述：这是一个分布式后台应用程序，使用 Rust 构建。基于`tokio`实现节点分布式通信和服务，完成本地和跨网络的工作。
 
 ### [xdeploy](https://github.com/gh503/xdeploy)
 
