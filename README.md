@@ -6,7 +6,7 @@
 
 做事的偏好：**接口先定、每层可验证**；先把「现在到哪一步」写清楚，再谈「将来能做什么」。
 
-📍 杭州　🌐 [博客](https://gh503.github.io/)　🧩 [项目页](https://gh503.github.io/projects/)
+📍 杭州　🌐 [主页](https://gh503.github.io/)　📝 [博客](https://gh503.github.io/blog/)　🧩 [项目页](https://gh503.github.io/blog/projects/)
 
 ## 现在在做
 
@@ -59,13 +59,13 @@
 
 ## 我的文章
 
-- [个人博客](https://gh503.github.io/) · [项目页](https://gh503.github.io/projects/) · [归档](https://gh503.github.io/archives/)
+- [个人主页](https://gh503.github.io/) · [博客](https://gh503.github.io/blog/) · [项目页](https://gh503.github.io/blog/projects/) · [归档](https://gh503.github.io/blog/archives/)
 
 最近写的几篇：
 
-- [APE/CUE 文件无损转换 FLAC 完整指南](https://gh503.github.io/2026/03/23/9ef23a8df771/)
-- [别再补窟窿了：用结构第一性原理重构你的工作与生活](https://gh503.github.io/2026/03/23/2f2f6ed51ead/)
-- [Linux 终端邮件客户端 Himalaya 配置指南](https://gh503.github.io/2026/03/19/066abdf0ab54/)
+- [APE/CUE 文件无损转换 FLAC 完整指南](https://gh503.github.io/blog/2026/03/23/9ef23a8df771/)
+- [别再补窟窿了：用结构第一性原理重构你的工作与生活](https://gh503.github.io/blog/2026/03/23/2f2f6ed51ead/)
+- [Linux 终端邮件客户端 Himalaya 配置指南](https://gh503.github.io/blog/2026/03/19/066abdf0ab54/)
 
 ## 联系方式
 
