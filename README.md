@@ -46,6 +46,8 @@ SQLite 记忆与整合、提醒与晨报、可撤销的设备配对，外加浏�
 `TypeScript` `Node 24` `SQLite` `本地优先`
 [源码](https://github.com/gh503/jarvis)
 
+<img src="assets/jarvis.jpg" alt="Jarvis Studio 总览：注意力、延迟趋势与回合追踪" width="720">
+
 ## 技术栈
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
