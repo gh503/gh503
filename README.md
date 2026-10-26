@@ -2,7 +2,7 @@
 
 > 日拱一卒。
 
-自动化专业出身，做测试开发与自动化，也写全栈。现在一半时间写 3D 引擎，一半时间折腾机器人。
+自动化专业出身，做测试开发与自动化，也写全栈。手上同时有三件事：3D 引擎、模块化机器人、跑在自己机器上的个人助理。
 
 做事的偏好：**接口先定、每层可验证**——先把「现在到哪一步」写清楚，再谈「将来能做什么」。
 
@@ -33,6 +33,18 @@
 [在线 3D 查看器](https://gh503.github.io/robot-modkit/) · [源码](https://github.com/gh503/robot-modkit)
 
 <img src="assets/modkit.jpg" alt="modkit M1 的在线 3D 查看器" width="720">
+
+### [Jarvis](https://github.com/gh503/jarvis) · 本地优先的个人助理
+
+跑在自己机器上的 ambient assistant：文本 / 语音对话（可打断）、按需屏幕 OCR、单帧摄像头、
+SQLite 记忆与整合、提醒与晨报、可撤销的设备配对，外加浏览器 PWA 和一个 Studio 观测面。
+
+模型侧支持 OpenAI 与 Anthropic 多套协议和 provider 池，配额、限流、鉴权失败会按优先级自动切到下一个并带冷却。
+
+`npm run memory:eval` 是一套 11 例的召回 / 拒答 / 隐私回归，改记忆逻辑前先跑它。
+
+`TypeScript` `Node 24` `SQLite` `本地优先`
+[源码](https://github.com/gh503/jarvis)
 
 ## 技术栈
 
