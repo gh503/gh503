@@ -38,6 +38,7 @@
 
 跑在自己机器上的 ambient assistant：文本 / 语音对话（可打断）、按需屏幕 OCR、单帧摄像头、
 SQLite 记忆与整合、提醒与晨报、可撤销的设备配对，外加浏览器 PWA 和一个 Studio 观测面。
+界面支持深色 / 浅色 / 跟随系统三档，顶栏一键切换并记住选择。
 
 模型侧支持 OpenAI 与 Anthropic 多套协议和 provider 池，配额、限流、鉴权失败会按优先级自动切到下一个并带冷却。
 
@@ -46,7 +47,7 @@ SQLite 记忆与整合、提醒与晨报、可撤销的设备配对，外加浏�
 `TypeScript` `Node 24` `SQLite` `本地优先`
 [源码](https://github.com/gh503/jarvis)
 
-<img src="assets/jarvis.jpg" alt="Jarvis Studio 总览：注意力、延迟趋势与回合追踪" width="720">
+<img src="assets/jarvis.jpg" alt="Jarvis 界面（浅色主题）：Studio 记忆星座，语义 / 情景 / 程序 / 前瞻四类记忆与它们之间的关联" width="720">
 
 ## 技术栈
 
